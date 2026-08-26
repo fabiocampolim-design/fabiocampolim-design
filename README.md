@@ -22,7 +22,7 @@ built around Claude Code:
 - **AI meets the lab bench** — connecting language models to physical instruments,
   starting with a phone as a remote-controlled sensor laboratory
 - **AI in production** — built AI-assisted legacy-code analysis and task automation for
-  enterprise telecom systems, from scratch, before it was infrastructure
+  integrated development and support of enterprise telecom systems
 
 📌 [`claude-session-publisher`](https://github.com/fabiocampolim-design/claude-session-publisher) —
 turn Claude Code sessions into self-contained HTML/LaTeX/PDF documents, with a fidelity
