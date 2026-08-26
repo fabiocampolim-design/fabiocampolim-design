@@ -32,7 +32,7 @@ report proving nothing was lost along the way.
 
 Musician and boxer. Co-wrote "[Um Dado Momento](https://www.youtube.com/watch?v=j63T8v7INt4)"
 (with Kleber "Dado" Tristão), an original song registered with the Brazilian National
-Library. *AI-dicted*, as the bio says.
+Library. *AI-dicted*, as the [Linktree bio](https://linktr.ee/fabio.campolim) says.
 
 📫 [LinkedIn](https://www.linkedin.com/in/fabiocampolim) ·
 [Lattes](http://lattes.cnpq.br/0774608605643516) ·
