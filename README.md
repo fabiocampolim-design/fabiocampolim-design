@@ -28,6 +28,11 @@ built around Claude Code:
 turn Claude Code sessions into self-contained HTML/LaTeX/PDF documents, with a fidelity
 report proving nothing was lost along the way.
 
+📌 [`scitech-librarian`](https://github.com/fabiocampolim-design/scitech-librarian) —
+one query, every scholarly database, a tidy archive of every run: reproducible,
+ToS-compliant literature search across eight bibliographic databases, stdlib-only,
+with databases defined as configuration rather than code.
+
 ### 🎵 Off the clock
 
 Musician and boxer. Co-wrote "[Um Dado Momento](https://www.youtube.com/watch?v=j63T8v7INt4)"
