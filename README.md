@@ -33,6 +33,15 @@ one query, every scholarly database, a tidy archive of every run: reproducible,
 ToS-compliant literature search across eight bibliographic databases, stdlib-only,
 with databases defined as configuration rather than code.
 
+📌 [`pythtb-skill`](https://github.com/fabiocampolim-design/pythtb-skill) —
+AI-agent skill, verified toolkit, fully executed notebooks and an undergraduate course
+for PythTB 2.0: tight-binding models, Berry phases, topological invariants.
+
+📌 [`kwant-skill`](https://github.com/fabiocampolim-design/kwant-skill) —
+Kwant, theory and practice: an executed course on quantum transport with Kwant 1.5 —
+twelve chapter notebooks from the Schrödinger equation to topological matter, solved
+exercises, an undergraduate course deck and a Windows installer.
+
 ### 🎵 Off the clock
 
 Musician and boxer. Co-wrote "[Um Dado Momento](https://www.youtube.com/watch?v=j63T8v7INt4)"
