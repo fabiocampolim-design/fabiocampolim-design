@@ -42,6 +42,12 @@ Kwant, theory and practice: an executed course on quantum transport with Kwant 1
 twelve chapter notebooks from the Schrödinger equation to topological matter, solved
 exercises, an undergraduate course deck and a Windows installer.
 
+📌 [`practical-meteorology-course`](https://github.com/fabiocampolim-design/practical-meteorology-course) —
+a complete two-semester undergraduate course in Portuguese on Stull's open textbook
+*Practical Meteorology*: lecture notes, Beamer slides, a teacher's guide, 46 executed
+notebooks (MetPy, climlab, SciPy), exercise lists and a schedule for all 22 chapters plus
+a module on climate change.
+
 ### 🎵 Off the clock
 
 Musician and boxer. Co-wrote "[Um Dado Momento](https://www.youtube.com/watch?v=j63T8v7INt4)"
