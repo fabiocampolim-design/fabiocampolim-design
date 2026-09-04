@@ -48,6 +48,12 @@ a complete two-semester undergraduate course in Portuguese on Stull's open textb
 notebooks (MetPy, climlab, SciPy), exercise lists and a schedule for all 22 chapters plus
 a module on climate change.
 
+📌 [`memristec-skill`](https://github.com/fabiocampolim-design/memristec-skill) —
+AI-agent skill, verified Python toolkit and an executed six-chapter book on compact
+memristor models (linear ion drift, Yakopcic, VTEAM, Stanford–PKU), written from the
+papers and cross-checked in numbers against the MemrisTec Model Library, with a map of
+device classes, public data sets and the model families that fit them.
+
 ### 🎵 Off the clock
 
 Musician and boxer. Co-wrote "[Um Dado Momento](https://www.youtube.com/watch?v=j63T8v7INt4)"
