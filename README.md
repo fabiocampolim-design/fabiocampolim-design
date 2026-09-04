@@ -30,7 +30,7 @@ report proving nothing was lost along the way.
 
 📌 [`scitech-librarian`](https://github.com/fabiocampolim-design/scitech-librarian) —
 one query, every scholarly database, a tidy archive of every run: reproducible,
-ToS-compliant literature search across eight bibliographic databases, stdlib-only,
+ToS-compliant literature search across nine bibliographic databases, stdlib-only,
 with databases defined as configuration rather than code.
 
 📌 [`pythtb-skill`](https://github.com/fabiocampolim-design/pythtb-skill) —
