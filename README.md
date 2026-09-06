@@ -54,6 +54,12 @@ memristor models (linear ion drift, Yakopcic, VTEAM, Stanford–PKU), written fr
 papers and cross-checked in numbers against the MemrisTec Model Library, with a map of
 device classes, public data sets and the model families that fit them.
 
+📌 [`rmcprofile-skill`](https://github.com/fabiocampolim-design/rmcprofile-skill) —
+AI-agent skill, verified toolkit, a clean-room teaching engine, an executed eleven-chapter
+book and an undergraduate course for RMCProfile 6.7.9, the Reverse Monte Carlo program for
+total scattering: every file format, an input checker, a cross-check against the program's
+own output to its single precision, and the corrections it applies measured against its manual.
+
 ### 🎵 Off the clock
 
 Musician and boxer. Co-wrote "[Um Dado Momento](https://www.youtube.com/watch?v=j63T8v7INt4)"
