@@ -28,6 +28,13 @@ built around Claude Code:
 turn Claude Code sessions into self-contained HTML/LaTeX/PDF documents, with a fidelity
 report proving nothing was lost along the way.
 
+📌 [`acp-cockpit`](https://github.com/fabiocampolim-design/acp-cockpit) —
+a browser client for AI coding agents that speaks the Agent Client Protocol
+directly: no terminal, no TUI, nothing scraped off a screen. Sessions live in
+the server, so the browser is disposable; the conversation reads in lanes you
+can switch off; and anomalies, drift and anything the client does not
+recognise are surfaced rather than swallowed.
+
 📌 [`scitech-librarian`](https://github.com/fabiocampolim-design/scitech-librarian) —
 one query, every scholarly database, a tidy archive of every run: reproducible,
 ToS-compliant literature search across nine bibliographic databases, stdlib-only,
