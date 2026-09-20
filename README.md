@@ -67,6 +67,13 @@ book and an undergraduate course for RMCProfile 6.7.9, the Reverse Monte Carlo p
 total scattering: every file format, an input checker, a cross-check against the program's
 own output to its single precision, and the corrections it applies measured against its manual.
 
+📌 [`lammps-skill`](https://github.com/fabiocampolim-design/lammps-skill) —
+AI-agent skill, verified Python toolkit and a thirteen-chapter executed notebook set with
+an undergraduate course for LAMMPS: install-route detection, a checked input-script
+builder, a from-scratch teaching engine (`mdlite`) cross-checked against LAMMPS and
+published references, headless atom snapshots and animations, structure and diffusion
+analysis.
+
 ### 🎵 Off the clock
 
 Musician and boxer. Co-wrote "[Um Dado Momento](https://www.youtube.com/watch?v=j63T8v7INt4)"
